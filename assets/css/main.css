@@ -2174,11 +2174,11 @@ a.video-play-btn {
 }
 
 .team-bg-1 {
-  background-image: url(../img/team/team-1.jpg);
+  background-image: url(../img/team/team1.png);
 }
 
 .team-bg-2 {
-  background-image: url(../img/team/team-2.jpg);
+  background-image: url(../img/team/team2.png);
 }
 
 .team-bg-3 {
@@ -2190,7 +2190,7 @@ a.video-play-btn {
 }
 
 .team-bg {
-  height: 400px;
+  height: 500px;
   background-size: cover;
   background-position: center;
   border-radius: 5px;
