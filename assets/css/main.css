@@ -2160,6 +2160,7 @@ a.video-play-btn {
 .feature-bg:after {
   background-image: url(../img/1-web.png);
   position: absolute;
+  margin-right: 12%;
   right: 0;
   top: 0;
   width: 30%;
