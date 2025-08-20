@@ -2071,8 +2071,8 @@ a.video-play-btn {
   width: 100%;
   background-size: cover;
   background-position: center;
-  border-top-right-radius: 10px;
-  border-bottom-left-radius: 10px;
+  border-top-right-radius: 20%;
+  border-bottom-left-radius: 20%;
   position: relative;
   z-index: 1;
   overflow: hidden;
