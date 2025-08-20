@@ -2162,8 +2162,8 @@ a.video-play-btn {
   position: absolute;
   right: 0;
   top: 0;
-  width: 40%;
-  height: 100%;
+  width: 30%;
+  height: 80%;
   content: "";
   background-size: cover;
   background-position: center;
