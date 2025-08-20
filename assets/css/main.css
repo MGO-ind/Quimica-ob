@@ -2159,21 +2159,14 @@ a.video-play-btn {
 
 .feature-bg:after {
   background-image: url(../img/1-web.png);
-    height: 100%;
-  width: 100%;
-  background-size: cover;
-  background-position: center;
-  position: relative;
-  z-index: 1;
-  overflow: hidden;
-  /*position: absolute;
+  position: absolute;
   right: 0;
   top: 0;
   width: 30%;
   height: 80%;
   content: "";
   background-size: cover;
-  background-position: center;*/
+  background-position: center;
   -webkit-box-shadow: 0 0 20px #cacaca;
   box-shadow: 0 0 20px #cacaca;
   border-bottom-left-radius: 20%;
