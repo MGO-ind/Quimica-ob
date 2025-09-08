@@ -32,7 +32,7 @@
             autoplay: true,
             nav: true,
             dots: false,
-            navText: ['<i class="fas fa-angle-left" style="display: none;"></i>', '<i class="fas fa-angle-right"></i>'],
+            navText: ['<i class="fas fa-angle-left" style="display: none;"></i>', '<i class="fas fa-angle-right" style="display: none;"></i>'],
             responsive:{
                 0:{
                     items:1,
