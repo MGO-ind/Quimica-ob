@@ -32,19 +32,19 @@
             autoplay: true,
             nav: true,
             dots: false,
-            navText: ['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
+            //navText: ['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
             responsive:{
                 0:{
                     items:1,
                     nav:false,
                     loop:true
                 },
-                600:{
+                1000:{
                     items:1,
                     nav:true,
                     loop:true
                 },
-                1000:{
+                1200:{
                     items:1,
                     nav:true,
                     loop:true
