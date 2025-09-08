@@ -2722,10 +2722,10 @@ table.order-details tbody td {
 }
 
 .single-product-item {
-  -webkit-box-shadow: 0 0 20px #e4e4e4;
-  box-shadow: 0 0 20px #e4e4e4;
+  -webkit-box-shadow: 0 0 30px #e4e4e4;
+  box-shadow: 0 0 30px #e4e4e4;
   padding-bottom: 50px;
-  border-radius: 50px;
+  border-radius: 30px;
 }
 
 /* -----------------------------------------------------------------------------
