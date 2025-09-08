@@ -1318,6 +1318,7 @@ ul.product-share li:hover a {
   -o-transition: 0.3s;
   transition: 0.3s;
   background: #07212e;
+  color: #fff;
 }
 
 .single-product-item:hover {
