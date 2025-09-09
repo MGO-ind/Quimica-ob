@@ -1230,7 +1230,7 @@ div.owl-controls div.owl-nav div:hover {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  border-radius: 25%;
+  border-radius: 85%;
 }
 
 .product-image img:hover {
