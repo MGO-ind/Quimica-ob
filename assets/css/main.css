@@ -1230,7 +1230,6 @@ div.owl-controls div.owl-nav div:hover {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  border-radius: 85%;
 }
 
 .product-image img:hover {
@@ -2419,7 +2418,7 @@ ul.social-link-team li a {
 .product-image img {
   width: 150px;
   height: 150px;
-  border-radius: 5px;
+  border-radius: 50%;
   margin-bottom: 20px;
 }
 
