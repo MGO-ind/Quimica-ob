@@ -2781,7 +2781,7 @@ table.order-details tbody td {
 
 
 
-.btn {
+.btn-wa {
   display: inline-block;
   font-weight: 400;
   color: #212529;
@@ -2801,7 +2801,7 @@ table.order-details tbody td {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
-.btn-lg, .btn-group-lg > .btn {
+.btn-lg-wa > .btn-wa {
   padding: 0.5rem 1rem;
   font-size: 1.25rem;
   line-height: 1.5;
