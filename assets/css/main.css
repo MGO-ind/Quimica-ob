@@ -2807,3 +2807,6 @@ table.order-details tbody td {
   text-decoration: none;
 }
 
+.txt-justify {
+  text-align: justify;
+}
