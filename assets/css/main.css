@@ -2800,3 +2800,10 @@ table.order-details tbody td {
   width: 90%;
 }
 
+.button-wa:hover {
+  color: #fff;
+  background-color: #115c2c;
+  border-color: #25d366;
+  text-decoration: none;
+}
+
