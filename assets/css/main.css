@@ -2810,3 +2810,29 @@ table.order-details tbody td {
 .txt-justify {
   text-align: justify;
 }
+
+.button-regresar {
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #F28123;
+  border: 1px solid #333;
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: 25rem;
+  width: 90%;
+}
+
+.button-regresar:hover {
+  color: #fff;
+  background-color: #523b0b;
+  border-color: #d3aa25;
+  text-decoration: none;
+}
