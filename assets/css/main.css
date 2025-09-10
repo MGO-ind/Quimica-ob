@@ -2765,11 +2765,16 @@ table.order-details tbody td {
 }
 
 .table-article {
-  background-image: url(../img/404-bg.png);
   height: 400px;
   background-size: cover;
   background-position: center;
   border-radius: 5px;
   background-color: #ddd;
   margin-bottom: 30px;
+}
+
+.note {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.8;
 }
