@@ -2771,6 +2771,10 @@ table.order-details tbody td {
   border-radius: 5px;
   background-color: #ddd;
   margin-bottom: 30px;
+  padding: 30px!important;
+  align-self: center;
+  align-items: center;
+  text-align: center;
 }
 
 .note {
