@@ -2765,7 +2765,7 @@ table.order-details tbody td {
 }
 
 .table-article {
-  height: 400px;
+  height: auto;
   background-size: cover;
   background-position: center;
   border-radius: 5px;
