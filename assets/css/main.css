@@ -2853,3 +2853,9 @@ table.order-details tbody td {
   border-color: #d3aa25;
   text-decoration: none;
 }
+
+
+.img-border {
+  border-radius: 15px;
+
+}
