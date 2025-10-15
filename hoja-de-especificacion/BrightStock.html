@@ -283,7 +283,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
-					<p>Copyrights &copy; 2024 - <a>Quimica OB</a>,  All Rights Reserved.</p>
+					<p>Copyrights &copy; <span id="currentYear"></span> - <a>Quimica OB</a>,  All Rights Reserved.</p>
+					<script>
+						document.getElementById('currentYear').textContent = new Date().getFullYear();
+					</script>
 				</div>
 				<div class="col-lg-6 text-right col-md-12">
 					<div class="social-icons">
